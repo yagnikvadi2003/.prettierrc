@@ -1,0 +1,35 @@
+# .DS_Store files are macOS Finder metadata files.
+.DS_Store
+
+# Ignore files listed in .eslintignore, to avoid formatting conflicts.
+.eslintignore
+
+# EditorConfig is used to maintain consistent coding styles across various editors.
+.editorconfig
+
+# Ignore files listed in .gitignore, to prevent them from being committed to the repository.
+.gitignore
+
+# Ignore files listed in .prettierignore, as they are not meant to be prettified.
+.prettierignore
+
+# The LICENSE file usually contains the project's licensing information.
+LICENSE
+
+# The .eslintcache directory contains cached ESLint data.
+.eslintcache
+
+# Ignore lock files created by package managers like npm and Yarn.
+*.lock
+yarn-error.log
+
+# The /build directory often contains build artifacts and can be ignored.
+/build
+
+# The /public directory may contain public assets and can be ignored.
+/public
+
+# The node_modules directory contains project dependencies and can be ignored.
+node_modules/
+
+# Add further ignore patterns below if needed.

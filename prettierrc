@@ -1,0 +1,47 @@
+{
+  // Maximum line length for formatting code
+  "printWidth": 100,
+
+  // Number of spaces per tab
+  "tabWidth": 4,
+
+  // Use tabs for indentation instead of spaces
+  "useTabs": true,
+
+  // Add semicolons at the end of statements
+  "semi": true,
+
+  // Use single quotes for strings if possible
+  "singleQuote": false,
+
+  // Control the usage of quotes for object properties
+  "quoteProps": "as-needed",
+
+  // Use single quotes in JSX attributes
+  "jsxSingleQuote": false,
+
+  // Put spaces inside curly braces for object literals
+  "bracketSpacing": true,
+
+  // Put opening and closing brackets on separate lines for object literals
+  "bracketSameLine": false,
+
+  // Include parentheses around a single arrow function parameter
+  "arrowParens": "avoid",
+
+  // Do not add a comment with prettier formatting information
+  "insertPragma": false,
+
+  // Wrap prose (text content) at the specified line length
+  "proseWrap": "always",
+
+  // Treat HTML whitespace sensitivity according to CSS rules
+  "htmlWhitespaceSensitivity": "css",
+
+  // Automatically detect and use appropriate end-of-line character(s)
+  "endOfLine": "auto",
+
+  // Use the TypeScript parser for code formatting
+  "parser": "typescript"
+}
+
